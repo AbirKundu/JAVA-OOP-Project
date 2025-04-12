@@ -1,33 +1,44 @@
-🚌 BUP Shuttle Companion
-A desktop application built using Java Swing to help BUP students easily access shuttle schedules and manage their transport planning effectively.
+# 🚌 BUP Shuttle Companion
 
-🛠️ Tech Stack
-Java (Swing)
+A desktop-based shuttle schedule assistant for students of **Bangladesh University of Professionals (BUP)**. Built using **Java Swing**, this application helps students quickly view and manage shuttle schedules with ease.
 
-NetBeans IDE (or any Java IDE)
+---
 
-MySQL (if connected to backend schedule data)
+## 🛠️ Tech Stack
 
-JDBC (for database connectivity, if applicable)
+- Java (Swing)
+- NetBeans IDE / IntelliJ IDEA
+- MySQL (optional, if used for database)
+- JDBC (for DB connectivity)
 
-📄 Features
-User-friendly interface with easy navigation.
+---
 
-Displays shuttle timings and stops clearly.
+## 📄 Features
 
-Provides search and filter options for efficient usage.
+- Easy-to-use GUI for shuttle schedule lookup
+- Displays timing, routes, and stops
+- Option to search and filter schedules
+- Lightweight and works offline
 
-Offline mode for quick access without internet.
+---
 
-📌 Project Objective
-To reduce confusion and improve convenience for BUP students by offering a dedicated platform to view shuttle schedules.
+## 🎯 Objective
 
-🚀 Impact
-Helped students plan their journeys better, avoiding long waits and missed shuttles.
+To create a reliable desktop tool for BUP students to plan their commute effectively and eliminate confusion regarding shuttle timings.
 
-Reduced dependency on unofficial communication or manual lookups.
+---
 
-Encouraged punctuality and improved time management.
+## 🚀 Impact
 
-🔗 GitHub Repository
-👉 BUP Shuttle Companion (https://github.com/AbirKundu/JAVA-OOP-Project/)
+- Improved time management and planning among students
+- Reduced dependency on unofficial sources or word of mouth
+- Promoted better punctuality by streamlining shuttle info access
+
+---
+
+## 🔗 GitHub Repository
+
+[👉 BUP Shuttle Companion] (https://github.com/AbirKundu/JAVA-OOP-Project/)
+
+> Feel free to fork, clone, or contribute to the project!
+
